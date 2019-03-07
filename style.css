@@ -1,0 +1,35 @@
+a {
+    color: black;
+
+}
+.top-left-menu {
+    display: inline-block;
+}
+.top-right-menu {
+    display: block;
+    float: right;
+}
+.logo {
+    padding: 108px;
+    width:"272";
+    height:"92";
+}
+.search-bar {
+    min-width: 980px;
+
+    
+}
+.bottom-left-menu {
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    
+
+}
+
+.bottom-right-menu {
+    float: right;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
